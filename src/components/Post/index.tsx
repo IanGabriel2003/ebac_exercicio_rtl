@@ -1,6 +1,6 @@
 import styles from './Post.module.css';
 
-import PostComments from '../PostComments';
+import PostComments from '../PostComment';
 import { ReactNode } from 'react';
 
 type Props = {
